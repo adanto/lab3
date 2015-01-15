@@ -1,9 +1,9 @@
 
 {
-	"name": "lab2client,
-	"main": "config/default.js",
-	"dependencies": {
-		"zmq" : "*",
-	    "config": "*"
-	}
+   "name": "lab2client",
+   "main": "config/default.js",
+   "dependencies": {
+      "zmq" : "*",
+       "config": "*"
+   }
 }
